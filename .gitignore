@@ -1,0 +1,4 @@
+!.gitignore
+!LungenSimulatorApp/Assets/
+!LungenSimulatorApp/ProjectSettings/
+!LungenSimulatorApp/Library/ArtifactDB
