@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "ZE2225BQX7",
         "name": "com.DefaultCompany.LungenSimulatorApp",
-        "processId": 28336,
+        "processId": 9713,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -108,6 +108,48 @@
             "deviceId": "ZE2225BQX7",
             "name": "com.DefaultCompany.LungenSimulatorApp",
             "processId": 28336,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 2988,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 4416,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 5581,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 6334,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 7339,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 8095,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 9713,
             "exited": false
         }
     ],
