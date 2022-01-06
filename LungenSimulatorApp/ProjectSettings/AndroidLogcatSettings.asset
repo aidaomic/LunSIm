@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "ZE2225BQX7",
         "name": "com.DefaultCompany.LungenSimulatorApp",
-        "processId": 9713,
+        "processId": 3065,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -150,6 +150,126 @@
             "deviceId": "ZE2225BQX7",
             "name": "com.DefaultCompany.LungenSimulatorApp",
             "processId": 9713,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 15179,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 27557,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 28734,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 29794,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 30903,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 32206,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 4193,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 6905,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 8247,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 10210,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 28065,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 30233,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 31173,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 1643,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 23769,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 26788,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 31582,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 32614,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 2025,
+            "exited": false
+        },
+        {
+            "deviceId": "ZE2225BQX7",
+            "name": "com.DefaultCompany.LungenSimulatorApp",
+            "processId": 3065,
             "exited": false
         }
     ],

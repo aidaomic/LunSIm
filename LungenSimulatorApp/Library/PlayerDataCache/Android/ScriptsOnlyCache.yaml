@@ -13,6 +13,14 @@ ScriptsOnlyBuild:
     - TMPro.TMP_Settings
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
+    - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -60,65 +68,73 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 49
       Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11920}
+      Script: {instanceID: 11910}
     - Class: 114
-      Script: {instanceID: 12108}
+      Script: {instanceID: 12098}
     - Class: 114
-      Script: {instanceID: 12110}
+      Script: {instanceID: 12100}
     - Class: 114
-      Script: {instanceID: 12150}
+      Script: {instanceID: 12140}
     - Class: 114
-      Script: {instanceID: 12442}
+      Script: {instanceID: 12432}
+    - Class: 114
+      Script: {instanceID: 12474}
     - Class: 114
       Script: {instanceID: 12484}
     - Class: 114
-      Script: {instanceID: 12494}
+      Script: {instanceID: 12486}
     - Class: 114
-      Script: {instanceID: 12496}
+      Script: {instanceID: 12586}
     - Class: 114
-      Script: {instanceID: 12596}
+      Script: {instanceID: 12610}
     - Class: 114
-      Script: {instanceID: 12620}
+      Script: {instanceID: 12718}
     - Class: 114
-      Script: {instanceID: 12728}
+      Script: {instanceID: 12754}
     - Class: 114
-      Script: {instanceID: 12764}
+      Script: {instanceID: 13222}
     - Class: 114
-      Script: {instanceID: 13232}
+      Script: {instanceID: 13516}
     - Class: 114
-      Script: {instanceID: 13526}
+      Script: {instanceID: 13724}
     - Class: 114
-      Script: {instanceID: 13734}
+      Script: {instanceID: 13762}
     - Class: 114
-      Script: {instanceID: 13772}
+      Script: {instanceID: 13782}
     - Class: 114
-      Script: {instanceID: 13792}
+      Script: {instanceID: 13902}
     - Class: 114
-      Script: {instanceID: 13912}
+      Script: {instanceID: 14104}
     - Class: 114
-      Script: {instanceID: 14114}
+      Script: {instanceID: 14304}
     - Class: 114
-      Script: {instanceID: 14314}
+      Script: {instanceID: 14428}
     - Class: 114
-      Script: {instanceID: 14438}
+      Script: {instanceID: 14488}
     - Class: 114
-      Script: {instanceID: 14498}
+      Script: {instanceID: 14644}
     - Class: 114
-      Script: {instanceID: 14654}
+      Script: {instanceID: 14664}
     - Class: 114
-      Script: {instanceID: 14674}
-    - Class: 114
-      Script: {instanceID: 14694}
+      Script: {instanceID: 14684}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
+      Script: {instanceID: 0}
+    - Class: 137
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -1383,7 +1399,7 @@ ScriptsOnlyBuild:
     className: SimpleScript
   - hash:
       serializedVersion: 2
-      Hash: 311ff252ffaa9616b2e4961833487ef6
+      Hash: 00248e61470f0d20967c8eda7f92cb0c
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: DropDownScript
@@ -2182,4 +2198,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/DropDown_ImageTarget_Working.unity
-  playerPath: C:/Users/omaid/Dropbox/Mein PC (LAPTOP-45NNE962)/Documents/Studium/LunSim/LungenSimulatorApp/LungSim1.apk
+  playerPath: C:/Users/omaid/Dropbox/Mein PC (LAPTOP-45NNE962)/Documents/Studium/LunSim/LungenSimulatorApp/LungSim3.apk
